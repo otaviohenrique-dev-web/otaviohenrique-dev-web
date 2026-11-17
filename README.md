@@ -1,57 +1,46 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=79C0FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Ot%C3%A1vio+Henrique;Desenvolvedor+Full+Stack;React.js+%7C+Node.js+%7C+Python;Transformando+ideias+em+c%C3%B3digo." alt="Typing SVG" />
-</div>
+<h1 align="center">Otávio Henrique</h1>
+<p align="center">
+  <b>Desenvolvedor Full Stack</b> · React · TypeScript · Node.js · Python<br/>
+  Rio de Janeiro, Brasil 🇧🇷
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/otaviohenrique-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/otavioh.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://wa.me/5521990679262">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://portifoliootaviodevweb.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/otaviohenrique-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/otavioh.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <h3>👋 Sobre Mim</h3>
-  <p width="400px">
-    💻 Atualmente focado em criar aplicações web escaláveis com <b>React</b> e <b>Node.js</b>.<br/>
-    🐍 Explorando automação e análise de dados com <b>Python</b>.<br/>
-    🚀 Buscando evoluir cada dia mais no ecossistema JavaScript e Arquitetura de Software.
-  </p>
-</div>
+## Sobre
 
-<br/>
+Construo aplicações web de ponta a ponta: interfaces rápidas em **React/Next.js** e APIs em **Node.js** e **Python**, com foco em código limpo, boa arquitetura e entrega em produção.
 
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+- 🔭 Hoje: dashboards, automação e sistemas de dados financeiros
+- 🧪 Pesquisa: rigor estatístico antes de qualquer decisão (veja o *BinTrader* abaixo)
+- 📚 Estudando: arquitetura de software, testes e observabilidade
+- 💬 Pergunte-me sobre: React, Vite, APIs REST, integração com CMS headless
 
-<br/>
+## Projetos em destaque
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation" />
-</div>
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**BinTrader · AegisAI Alpha**](https://github.com/otaviohenrique-dev-web/bintrader) | Laboratório de pesquisa que mede, com gate estatístico, se existe vantagem real em opções binárias. Somente leitura de dados, sem ordens. | TypeScript · Node.js |
+| [**Essenza Studio**](https://github.com/otaviohenrique-dev-web/Essenza-Studio-portifolio-web) · [demo](https://essenza-studio-portifolio-web.vercel.app/) | Site de portfólio para estúdio de arquitetura, com conteúdo gerenciável via Sanity CMS. | React · TypeScript · Sanity |
+| [**Barbearia Dinâmica**](https://github.com/otaviohenrique-dev-web/barbearia-dinamica) | Agendamento para barbearias com painel de administração. | React · Express · PostgreSQL · Prisma |
+| [**E-Commerce Minimalista**](https://github.com/otaviohenrique-dev-web/E-Commerce-Minimalista) | E-commerce com arquitetura limpa. | ASP.NET Core · EF Core · SQL Server · React |
+| [**SniperBot Pro (showcase)**](https://github.com/otaviohenrique-dev-web/sniper-bot-pro-showcase) | Estrutura de um sistema de trading algorítmico com foco em gestão de risco. | Python · Flask · React |
 
-<br/>
+## Stack
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Educação+não+transforma+o+mundo.+Educação+muda+as+pessoas.+Pessoas+transformam+o+mundo.&author=Paulo+Freire" alt="Quote" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,bootstrap,html,css&perline=9" alt="Front-end: React, Next.js, TypeScript, JavaScript, Vite, Tailwind, Bootstrap, HTML, CSS" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,cs,postgres,prisma,mysql&perline=9" alt="Back-end e dados: Node.js, Express, Python, Flask, Java, C#, PostgreSQL, Prisma, MySQL" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=9" alt="Ferramentas: Git, GitHub, Vercel, VS Code" />
+</p>
+
+## Contato
+
+Aberto a oportunidades e projetos freelance. O caminho mais rápido é o [LinkedIn](https://www.linkedin.com/in/otaviohenrique-dev) ou o formulário do [portfólio](https://portifoliootaviodevweb.vercel.app/).
+
+<sub>Nota: projetos de trading são pesquisa/educação e não constituem recomendação de investimento.</sub>
